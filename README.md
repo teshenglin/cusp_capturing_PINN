@@ -17,7 +17,7 @@ In this paper, we propose a cusp-capturing physics-informed neural network (PINN
 ```
 @misc{TLHL23,
   title = {A cusp-capturing PINN for elliptic interface problems},
-  author = {Tseng, Yu-Hau and Lin, Te-Sheng and Hu, Wei-Fan and Lai, Ming-Chih},
+  author = {Y.-H. Tseng and T.-S. Lin and W.-F, Hu and M.-C. Lai},
   year = {2023},
   eprint={2210.08424},
   archivePrefix={arXiv}
